@@ -3,6 +3,8 @@
 ## Enfoque seleccionado
 
 El sistema utilizará **Clean Architecture** como enfoque para organizar las responsabilidades y dependencias internas.
+![Diagrama Clean Architecture del Marketplace](./imagenes/clean-architecture-marketplace.png)
+
 
 ## Objetivo
 
